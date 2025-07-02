@@ -1,4 +1,4 @@
 # netflixclone
 This is netflix clone
-<br>
+<hr>
 author - Avaneesh goyal
